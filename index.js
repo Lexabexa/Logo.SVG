@@ -66,12 +66,12 @@ async function run() {
 function generatedSVG(shape, textColor, text) {
     const shapeSVG = shape.render();
     const textSVG = '<text y="140" x="150" font-size"50" text-anchor="middle" fill="${textColor}">${text}</text>';
-const SVG = 
+const SVG = `
     <SVG height="300" width="300" xmlns="http://www.w3.org/2000/svg">
             ${shapeSVG}
             ${textSVG}
     </SVG>
-    
+    `;
     return SVG;
 }
 
