@@ -35,12 +35,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 # Video
 # Installation
 # Usage
-Dynamic JavaScript
-Node.js Version 16.18.1
-Jest Version 29.4.3
-Inquirer.js: Version 8.2.4
-License Badge: Shields.io
-Visual Studio Code: Website
+Dynamic JavaScript, Node.js, Jest, Inquirer.js, Visual Studio Code
 # Tests
 Test this application by cloning the repository code and run the application in your terminal by running code 'node index.js'. Answer prompt questions, then open the LOGO.SVG file in a browser.
 # Contributing
