@@ -1,7 +1,7 @@
 //modules
-const fs = Require("fs");
-const inquirer = Require("inquirer");
-const { Triangle, Square, Circle } = Require("./lib/shapes");
+const fs = require("fs");
+const inquirer = require("inquirer");
+const { Triangle, Square, Circle } = require("./lib/shapes");
 //Question arrays
 const questions = [
     {
