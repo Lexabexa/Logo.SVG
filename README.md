@@ -38,6 +38,11 @@ Clone the repository code and run the application in your terminal by running co
 # Usage
 Dynamic JavaScript, Node.js, Jest, Inquirer.js, Visual Studio Code
 # Tests
+Each shape class should be tested for a render() method that returns a string for the corresponding SVG file with the given shape color.
+The following example test should pass:
+const shape = new Triangle();
+shape.setColor("blue");
+expect(shape.render()).toEqual('<polygon points="150, 18 244, 182 56, 182" fill="blue" />');
 # Contributing 
 https://www.npmjs.com/package/jest
 https://www.youtube.com/@code
