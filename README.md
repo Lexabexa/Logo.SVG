@@ -1,5 +1,5 @@
 # Logo.SVG
-Generate LOGO
+Uses a Node.js command-line to generate a SVG logo and saves it as "logo.svg" file.
 # TableOfContents
 * [Title](#Title)
 * [Table of Contents](#TableofContents)
