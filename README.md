@@ -38,6 +38,11 @@ Clone the repository code and run the application in your terminal by running co
 # Usage
 Dynamic JavaScript, Node.js, Jest, Inquirer.js, Visual Studio Code
 # Tests
+# Contributing 
+https://www.npmjs.com/package/jest
+https://www.youtube.com/@code
+https://developer.mozilla.org/en-US/play
+https://www.w3schools.com/
 # Questions
 Email: lexabexa3@gmail.com Github: https://github.com/Lexabexa
 # License
