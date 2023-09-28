@@ -12,11 +12,8 @@
   },
   "author": "Alexa Webb",
   "license": "MIT",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  },
-  "dependencies": {
-    "inquirer": "^9.2.11"
+  "devDependencies": {}
+  {
+    "type": "module"
   }
-
 }
