@@ -36,6 +36,7 @@ async function init() {
         const answers = await inquirer.prompt(questions); //asks ?s
 
         const textColor = answers["Text-color"];
+        const text = answers.Text;
         const shapeColor = answers["Shape-color"];
         const Shape = answers.Shape;
 

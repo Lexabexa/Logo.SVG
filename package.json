@@ -1,19 +1,24 @@
 {
-  "name": "logo.svg",
+  "name": "10logo.svg",
   "version": "1.0.0",
-  "description": "Uses a Node.js command-line to generate a SVG logo and saves it as \"logo.svg\" file.\r # TableOfContents\r * [Title](#Title)\r * [Table of Contents](#TableofContents)\r * [Description](#Description)\r * [Screenshot](#Screenshot)\r * [Link](#Link)\r * [Video](#Video)\r * [Installation](#Installation)\r * [Usage](#Usage)\r * [Tests](#Tests)\r * [Contributing](#Contributing)\r * [Questions](#Questions)\r * [License](#License)",
+  "description": "LOGO",
   "main": "index.js",
   "directories": {
-    "example": "examples",
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
+  "repository": {
+    "type": "git",
+    "url": "lexabexa"
+  },
+  "keywords": [
+    "svg"
+  ],
   "author": "Alexa Webb",
   "license": "MIT",
-  "devDependencies": {}
-  {
-    "type": "module"
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
