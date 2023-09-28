@@ -58,7 +58,7 @@ async function init() {
         //set shape color
         shape.setColor(shapeColor);
         //use input to generate SVG
-        const logoSVG = generatedSVG(shape, textColor, answers.Text);
+        const logoSVG = generatedSVG(shape, textColor, text);
         //save file as SVG
         fs.writeFileSync("logo.svg", logoSVG);
         console.log("Logo.SVG Saved");
