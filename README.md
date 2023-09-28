@@ -5,8 +5,6 @@ Uses a Node.js command-line to generate a SVG logo and saves it as "logo.svg" fi
 * [Title](#Title)
 * [Table of Contents](#TableofContents)
 * [Description](#Description)
-* [Screenshot](#Screenshot)
-* [Link](#Link)
 * [Video](#Video)
 * [Installation](#Installation)
 * [Usage](#Usage)
@@ -31,9 +29,12 @@ THEN an SVG file is created named `logo.svg`
 AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
-# Screenshot
-# Link
+
+
 # Video
+[logo.webm](https://github.com/Lexabexa/Logo.SVG/assets/130160635/0e5f2088-8ed1-4e52-a5dd-8da1f9390d48)
+
+
 # Installation
 Clone the repository code and run the application in your terminal by running code 'node index.js'. Answer prompt questions, then open the LOGO.SVG file in a browser.
 
@@ -45,9 +46,6 @@ Dynamic JavaScript, Node.js, Jest, Inquirer.js, Visual Studio Code
 
 # Tests 
 Use [Jest](https://www.npmjs.com/package/jest)  Type "npm i jest" to test.
-
-or
-To run unit testing, open the terminal, and use the command "npm run test".
 
 # Contributing 
 [Jest](https://www.npmjs.com/package/jest)
