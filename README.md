@@ -1,5 +1,6 @@
 # Logo.SVG
 Uses a Node.js command-line to generate a SVG logo and saves it as "logo.svg" file.
+
 # TableOfContents
 * [Title](#Title)
 * [Table of Contents](#TableofContents)
@@ -35,17 +36,31 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 # Video
 # Installation
 Clone the repository code and run the application in your terminal by running code 'node index.js'. Answer prompt questions, then open the LOGO.SVG file in a browser.
+
 # Usage
 Dynamic JavaScript, Node.js, Jest, Inquirer.js, Visual Studio Code
+
 # Tests
+
 To run unit testing, open the terminal, and use the command npm run test.
+
 # Contributing 
-https://www.npmjs.com/package/jest
-https://www.youtube.com/@code
-https://developer.mozilla.org/en-US/play
-https://www.w3schools.com/
+[Jest](https://www.npmjs.com/package/jest)
+
+[YouTube](https://www.youtube.com/@code)
+
+[Playground](https://developer.mozilla.org/en-US/play)
+
+[W3Schools](https://www.w3schools.com/)
+
+[UC Berkeley](https://bootcampspot.instructure.com/calendar#view_name=month&view_start=2023-07-01)
+
 # Questions
-Email: lexabexa3@gmail.com Github: https://github.com/Lexabexa
+
+Email: <lexabexa3@gmail.com>
+
+[Github](https://github.com/Lexabexa)
+
 # License
 MIT License
 
