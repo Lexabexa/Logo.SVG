@@ -47,11 +47,11 @@ To run unit testing, open the terminal, and use the command npm run test.
 # Contributing 
 [Jest](https://www.npmjs.com/package/jest)
 
-[Jest](https://www.youtube.com/@code)
+[YouTube](https://www.youtube.com/@code)
 
 [Playground](https://developer.mozilla.org/en-US/play)
 
-[w3schhols](https://www.w3schools.com/)
+[W3Schools](https://www.w3schools.com/)
 
 [UC Berkeley](https://bootcampspot.instructure.com/calendar#view_name=month&view_start=2023-07-01)
 
